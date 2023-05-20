@@ -1,1 +1,1 @@
-# Self-Service-Business-Intelligence_SSBI
+# Self-Service-Business-Intelligence
